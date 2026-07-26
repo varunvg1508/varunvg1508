@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Varun VG 👋
 
-<!--
-**varunvg1508/varunvg1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Data Analyst passionate about transforming raw data into meaningful business insights. I enjoy working with SQL, Power BI, and Python to clean, analyze, and visualize data for better decision-making.
 
-Here are some ideas to get you started:
+🎓 B.Sc. in Statistics & Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL (MySQL)
+- Power BI
+- DAX
+- Power Query
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Microsoft Excel
+- Statistics
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- Business Intelligence
+
+## Featured Projects
+
+### 📊 Market Basket Analysis
+Interactive Power BI dashboard analyzing customer purchasing patterns using SQL and Power BI.
+
+### 📈 Customer Sales Analysis
+Sales performance dashboard with KPIs, interactive filters, and customer insights.
+
+### 🚀 Startup Profit Analysis
+Analyzed startup profitability using Power BI and Python to identify key business trends.
+
+### 🌾 Crop Yield Analysis
+Statistical analysis of crop yield factors using real-world agricultural data.
+
+## Tools
+
+- SQL
+- Power BI
+- Python
+- Excel
+- Git
+- GitHub
+
+## Currently Learning
+
+- Advanced SQL
+- Power BI
+- Data Analytics
+- Business Intelligence
+
+## Connect With Me
+
+- GitHub: https://github.com/varunvg1508
+- LinkedIn: (https://www.linkedin.com/in/varungokral?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+⭐ Thanks for visiting my profile!
