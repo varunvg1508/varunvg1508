@@ -24,7 +24,7 @@ I'm a Data Analyst passionate about transforming raw data into meaningful busine
 
 ## Featured Projects
 
-### 📊 Market Basket Analysis
+### 📊 Market Analysis
 Interactive Power BI dashboard analyzing customer purchasing patterns using SQL and Power BI.
 
 ### 📈 Customer Sales Analysis
