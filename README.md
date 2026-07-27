@@ -33,8 +33,6 @@ Sales performance dashboard with KPIs, interactive filters, and customer insight
 ### 🚀 Startup Profit Analysis
 Analyzed startup profitability using Power BI and Python to identify key business trends.
 
-### 🌾 Crop Yield Analysis
-Statistical analysis of crop yield factors using real-world agricultural data.
 
 ## Tools
 
